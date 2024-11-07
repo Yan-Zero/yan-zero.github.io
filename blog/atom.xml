@@ -24,7 +24,7 @@
 <h3 id="github-pages"><a href="https://pages.github.com/">Github Pages</a></h3>
 <p>Github Pages 版是作为<a href="https://yan-zero.github.io/">备份</a>的存在，更新理论上会比主项目的要慢……</p>
 <p>命令是</p>
-<pre><code>cmd /C 'set "GIT_USER=&lt;Name&gt;" &amp;&amp; yarn deploy'
+<pre><code class="language-bat">cmd /C 'set "GIT_USER=&lt;Name&gt;" &amp;&amp; yarn deploy'
 </code></pre>
 <h2 id="页面相关">页面相关</h2>
 <h3 id="friends-页面"><a href="https://cc.timedegree.cc/friends">Friends</a> 页面</h3>
