@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[947],{6600:e=>{e.exports=JSON.parse('{"authors":[{"name":"\u8a00","url":"https://github.com/Yan-Zero","imageURL":"https://github.com/Yan-Zero.png","key":"Yan","page":null,"count":1}]}')}}]);
